@@ -201,18 +201,18 @@ const default_config = {
               icon: "brand-github",
               icon_color: "#ffffff",
             },
-            // {
-            //   name: "channel",
-            //   url: "",
-            //   icon: "brand-youtube",
-            //   icon_color: "#ea6962",
-            // },
-            // {
-            //   name: "server",
-            //   url: "",
-            //   icon: "brand-discord",
-            //   icon_color: "#5865f2"
-            // },
+            {
+              name: "playlists",
+              url: "https://www.youtube.com/@0xsanchez_playlists",
+              icon: "brand-youtube",
+              icon_color: "#ea6962",
+            },
+            {
+              name: "server",
+              url: " https://discord.gg/MAxd7UG8KF",
+              icon: "brand-discord",
+              icon_color: "#5865f2"
+            },
           ],
         },
       ],
